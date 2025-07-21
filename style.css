@@ -1,0 +1,84 @@
+#box
+{
+    padding:30px ;
+    border: 1px solid black;
+    width: 600px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color:rgba(251, 251, 251, 0.612) ;
+    box-shadow: rgba(0, 0, 0, 0.211) 0px 5px 15px;
+    border: none;
+    border-radius: 20px;
+}
+#a
+{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 140px;
+}
+.i
+{
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.303) 0px 15px 25px, rgba(0, 0, 0, 0.286) 0px 5px 10px;
+    padding: 20px;
+    width: 200px;
+    height: 90px;
+   
+}
+.e
+{
+     text-align: center;
+     box-shadow: rgba(0, 0, 0, 0.296) 0px 15px 25px, rgba(0, 0, 0, 0.176) 0px 5px 10px;
+     padding: 20px;
+     width: 200px;
+     height: 90px;
+}
+
+#list li 
+{
+    display: flex;
+    text-align: center;
+    padding: 10px 15px; 
+    border-radius: 4px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+     justify-content: space-between;
+}
+#plus {
+  color: green;
+  font-weight:bolder;
+}
+
+#minus {
+  color: red;
+  font-weight: bolder;
+}
+.c input {
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+#btnn {
+    margin-top: 15px;
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+   
+}
+#btnn:hover {
+    background-color: #0056b3;
+}
+body{
+    background-color: rgb(215, 215, 201);
+}
+#history
+{
+    
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.382) 0px 5px 10px;
+}
