@@ -6,7 +6,7 @@ A simple and interactive web-based Expense Tracker application built using **HTM
 
 ## 🖥️ Live Demo
 
-> 🔗 [https://github.com/jijendirakumar/Expense_transaction]
+> 🔗 https://github.com/jijendirakumar/Expense_tracker
 
 ---
 
